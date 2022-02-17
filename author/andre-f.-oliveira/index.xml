@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>André F. Oliveira | CIDAG - Computational Intelligence and Data Analysis Group</title>
+    <link>https://cidag.github.io/author/andre-f.-oliveira/</link>
+      <atom:link href="https://cidag.github.io/author/andre-f.-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <description>André F. Oliveira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cidag.github.io/author/andre-f.-oliveira/avatar_huc09f8c49c43994027deb0afcf6d1ab18_120441_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>André F. Oliveira</title>
+      <link>https://cidag.github.io/author/andre-f.-oliveira/</link>
+    </image>
+    
+  </channel>
+</rss>
