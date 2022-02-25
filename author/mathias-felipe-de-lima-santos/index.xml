@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mathias-Felipe de Lima-Santos | CIDAG - Computational Intelligence and Data Analysis Group</title>
+    <title>Mathias-Felipe de-Lima-Santos | CIDAG - Computational Intelligence and Data Analysis Group</title>
     <link>https://cidag.github.io/author/mathias-felipe-de-lima-santos/</link>
       <atom:link href="https://cidag.github.io/author/mathias-felipe-de-lima-santos/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mathias-Felipe de Lima-Santos</description>
+    <description>Mathias-Felipe de-Lima-Santos</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cidag.github.io/media/logo_hu80eed6949e68ea267623c0cc08fae40b_727945_300x300_fit_lanczos_3.png</url>
-      <title>Mathias-Felipe de Lima-Santos</title>
+      <url>https://cidag.github.io/author/mathias-felipe-de-lima-santos/avatar_hue4840def94d6c3a987127f1f729d3e7a_31325_270x270_fill_lanczos_center_3.png</url>
+      <title>Mathias-Felipe de-Lima-Santos</title>
       <link>https://cidag.github.io/author/mathias-felipe-de-lima-santos/</link>
     </image>
     
     <item>
       <title>COVID-19 fake news diffusion across Latin America</title>
-      <link>https://cidag.github.io/publication/j_2021_cssq/</link>
+      <link>https://cidag.github.io/publication/quiles/j_2021_cssq/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://cidag.github.io/publication/j_2021_cssq/</guid>
+      <guid>https://cidag.github.io/publication/quiles/j_2021_cssq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fake news agenda in the era of COVID-19: Identifying trends through fact-checking content</title>
-      <link>https://cidag.github.io/publication/j_2021_csq/</link>
+      <link>https://cidag.github.io/publication/quiles/j_2021_csq/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cidag.github.io/publication/j_2021_csq/</guid>
+      <guid>https://cidag.github.io/publication/quiles/j_2021_csq/</guid>
       <description></description>
     </item>
     

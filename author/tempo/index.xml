@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tempo | CIDAG - Computational Intelligence and Data Analysis Group</title>
+    <link>https://cidag.github.io/author/tempo/</link>
+      <atom:link href="https://cidag.github.io/author/tempo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tempo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cidag.github.io/author/tempo/Avatar_hu11fc47e3b7d165773ba5bdc0b101e758_1346865_270x270_fill_lanczos_center_3.png</url>
+      <title>Tempo</title>
+      <link>https://cidag.github.io/author/tempo/</link>
+    </image>
+    
+  </channel>
+</rss>
