@@ -5,12 +5,20 @@
     <link>https://cidag.github.io/author/elbert-e.-n.-macau/</link>
       <atom:link href="https://cidag.github.io/author/elbert-e.-n.-macau/index.xml" rel="self" type="application/rss+xml" />
     <description>Elbert E. N. Macau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cidag.github.io/media/logo_hu80eed6949e68ea267623c0cc08fae40b_727945_300x300_fit_lanczos_3.png</url>
+      <url>https://cidag.github.io/author/elbert-e.-n.-macau/avatar_hue4840def94d6c3a987127f1f729d3e7a_31325_270x270_fill_lanczos_center_3.png</url>
       <title>Elbert E. N. Macau</title>
       <link>https://cidag.github.io/author/elbert-e.-n.-macau/</link>
     </image>
+    
+    <item>
+      <title>Importance of Numerical Implementation and Clustering Analysis in Force-Directed Algorithms for Accurate Community Detection</title>
+      <link>https://cidag.github.io/publication/quiles/j_2022_grmq/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://cidag.github.io/publication/quiles/j_2022_grmq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Topological indexes and community structure for urban mobility networks: Variations in a business day</title>

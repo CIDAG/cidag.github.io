@@ -5,12 +5,20 @@
     <link>https://cidag.github.io/tag/community-detection/</link>
       <atom:link href="https://cidag.github.io/tag/community-detection/index.xml" rel="self" type="application/rss+xml" />
     <description>Community Detection</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cidag.github.io/media/logo_hu80eed6949e68ea267623c0cc08fae40b_727945_300x300_fit_lanczos_3.png</url>
       <title>Community Detection</title>
       <link>https://cidag.github.io/tag/community-detection/</link>
     </image>
+    
+    <item>
+      <title>Importance of Numerical Implementation and Clustering Analysis in Force-Directed Algorithms for Accurate Community Detection</title>
+      <link>https://cidag.github.io/publication/quiles/j_2022_grmq/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://cidag.github.io/publication/quiles/j_2022_grmq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Wild Sugarcane and Sorghum Kinomes: Insights Into Expansion, Diversification, and Expression Patterns</title>

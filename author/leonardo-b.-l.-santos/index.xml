@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonardo B. L. Santos | CIDAG - Computational Intelligence and Data Analysis Group</title>
+    <link>https://cidag.github.io/author/leonardo-b.-l.-santos/</link>
+      <atom:link href="https://cidag.github.io/author/leonardo-b.-l.-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leonardo B. L. Santos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cidag.github.io/author/leonardo-b.-l.-santos/avatar_hu0b9a31a4748dd044cac9989c693b1d19_893697_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Leonardo B. L. Santos</title>
+      <link>https://cidag.github.io/author/leonardo-b.-l.-santos/</link>
+    </image>
+    
+    <item>
+      <title>Topological indexes and community structure for urban mobility networks: Variations in a business day</title>
+      <link>https://cidag.github.io/publication/quiles/j_2021_ltqlsm/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://cidag.github.io/publication/quiles/j_2021_ltqlsm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
